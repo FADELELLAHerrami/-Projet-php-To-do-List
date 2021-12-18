@@ -1,0 +1,7 @@
+la base de données s'appèle (todos) et elle contient une 
+table qui porte le même nom
+
+
+
+create table todos (id int primary key auto_increment ,title 
+varchar(50));
